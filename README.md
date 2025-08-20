@@ -24,7 +24,7 @@ The project uses **structs** and **functions** for modular code.
 ```bash
 gcc main.c library.c -o library_mgmt
 
-Run:
+##Run:
 ./library_mgmt
 
 📂 Project Structure
